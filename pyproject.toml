@@ -19,6 +19,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_GITHUB_USERNAME/simpleqlearn"
-Repository = "https://github.com/YOUR_GITHUB_USERNAME/simpleqlearn"
-Issues = "https://github.com/YOUR_GITHUB_USERNAME/simpleqlearn/issues"
+Homepage = "https://github.com/Kartik-Rajesh/simpleqlearn"
+Repository = "https://github.com/Kartik-Rajesh/simpleqlearn"
+Issues = "https://github.com/Kartik-Rajesh/simpleqlearn/issues"
